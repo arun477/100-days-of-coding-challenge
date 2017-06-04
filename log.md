@@ -20,3 +20,19 @@ https://www.freecodecamp.com/challenges/repeat-a-string-repeat-a-string
 
 **Thoughts:** today i was trying to solve problem from projecteuler.com, the problem looks easy but i couldn't solve today but i almost reached the result only one step is required to finish the problem i hope tommorow i finish this, and i also solved one problem from freecodecamp it was so easy not took much time.
 
+**Link to work:**https://www.freecodecamp.com/challenges/truncate-a-string
+
+### Day 3: June 4, 2017
+
+
+**Today's Progress**: today i was introduced to new frontend frame work materialize, that was really cool. i had revisions on the important array methods by solving problem from freecodecamp, totally i got good revision over array methods.
+
+**Thoughts:** i could see the progress in my solving simple algorithm problems, the time takes for solving the problem reduced notablly. the good news is yesterday's primefactor problem solved, today i solved more problems, overall today was nice day.
+
+**Link to work:**https://projecteuler.net/problem=3
+https://www.freecodecamp.com/challenges/where-do-i-belong
+https://www.freecodecamp.com/challenges/seek-and-destroy
+https://www.freecodecamp.com/challenges/falsy-bouncer
+https://www.freecodecamp.com/challenges/mutations
+https://www.freecodecamp.com/challenges/slasher-flick#?solution=%0Afunction%20slasher(arr%2C%20howMany)%20%7B%0A%20%20%2F%2F%20it%20doesn't%20always%20pay%20to%20be%20first%0A%20%20arr.splice(0%2C%20howMany)%3B%0A%20%20return%20arr%3B%0A%7D%0A%0Aslasher(%5B1%2C%202%2C%203%5D%2C%202)%3B%0A
+https://www.freecodecamp.com/challenges/chunky-monkey
