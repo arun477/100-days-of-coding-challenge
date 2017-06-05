@@ -36,3 +36,18 @@ https://www.freecodecamp.com/challenges/falsy-bouncer
 https://www.freecodecamp.com/challenges/mutations
 https://www.freecodecamp.com/challenges/slasher-flick#?solution=%0Afunction%20slasher(arr%2C%20howMany)%20%7B%0A%20%20%2F%2F%20it%20doesn't%20always%20pay%20to%20be%20first%0A%20%20arr.splice(0%2C%20howMany)%3B%0A%20%20return%20arr%3B%0A%7D%0A%0Aslasher(%5B1%2C%202%2C%203%5D%2C%202)%3B%0A
 https://www.freecodecamp.com/challenges/chunky-monkey
+
+
+### Day 4: June 5, 2017
+
+
+**Today's Progress**: i learned how to approach the problem and what mindset is reqired to handle the problem. Today i solved interesting problems from freecodecamp and projecteuler, today i learned the importance of considering memory and processing time during coding, one of my today programme took 8 minute to produce the output.
+
+**Thoughts:** today was so good, if i look back problems i solved today that was unbelivable those problems are solved by me.
+Today i understand one thing, what needs to solve any problem is two things, one is hope you can solve this and two perseverance.
+
+**Link to work:**https://projecteuler.net/problem=4
+https://projecteuler.net/problem=5
+https://www.freecodecamp.com/challenges/caesars-cipher
+https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range
+https://www.freecodecamp.com/challenges/diff-two-arrays
