@@ -51,3 +51,24 @@ https://projecteuler.net/problem=5
 https://www.freecodecamp.com/challenges/caesars-cipher
 https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range
 https://www.freecodecamp.com/challenges/diff-two-arrays
+
+### Day 5: June 6, 2017
+
+
+**Today's Progress**: today was not that much good, i coded one or two problems both were super easy, but i learned little basic about regular expressions and string replace method. 
+
+**Thoughts:** not good because i'm not in good mood, but i hope tommorow will be good.
+
+**Link to work:** https://projecteuler.net/problem=6
+https://projecteuler.net/problem=7
+
+### Day 6: June 7, 2017
+
+
+**Today's Progress**: i solved the numerical to roman convertor, this convertor convert all natural number upto 4000, it was so cool to work with this problem, due to this problem i understood the power functional programming because i did this code using three four seperate function and now i could understand the object prototype because that has been confusing little while,  .
+
+**Thoughts:** nice day, at the begnning was little rough but latter was good.
+
+**Link to work:** https://www.freecodecamp.com/challenges/roman-numeral-converter
+https://www.freecodecamp.com/challenges/wherefore-art-thou
+ 
