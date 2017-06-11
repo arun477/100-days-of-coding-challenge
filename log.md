@@ -88,4 +88,27 @@ Today i understand one thing, what needs to solve any problem is two things, one
                   https://www.freecodecamp.com/challenges/pig-latin,
                   https://coolarun.github.io/romancalc/.
                   
+### Day 8: June 9, 2017
+
+
+**Today's Progress**:totay i was working on my website random quote machine and it come really well and i learned how to use flex box and i also understand how to use margin and padding and also the power of media query.
+
+**Thoughts:** today was awesome because first time i built really awesome website and it looks really cool in both mobile and pc screens.
+**Link to work:** https://coolarun.github.io/quotemachine.
+
+### Day 9: June 10, 2017
+
+
+**Today's Progress**: today i did'nt do much, i had to learn about api and tooks so much time figure it out. but finally i understood the api concept quite well. and i'm also working on my new project.
+**Thoughts:**  not that good, but i started new project, i hope that going to super.
+**Link to work:** comming soon......
+
+### Day 10: June 11, 2017
+
+
+**Today's Progress**: went well i solved one problem from project euler and i'm also in the middle of the free code problem.
+
+**Thoughts:** i was working on my new project, i finished 30% of the work, it going well, i think tommorow i finish this project.
+**Link to work:** https://projecteuler.net/problem=8.
+
  
