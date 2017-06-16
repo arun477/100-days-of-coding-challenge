@@ -111,4 +111,20 @@ Today i understand one thing, what needs to solve any problem is two things, one
 **Thoughts:** i was working on my new project, i finished 30% of the work, it going well, i think tommorow i finish this project.
 **Link to work:** https://projecteuler.net/problem=8.
 
+### Day 11 ot Day 14: June 12 to june 16, 2017
+
+
+**Today's Progress**: i feel terible because i could'nt update my progress for past four days because i'm lazy, i felt terible for my inconsistent. but good things i coded all four days, i learned quiet lot  and i built my weather api project it came very well and now i'm working on my portfolio page and it taking time.
+
+**Thoughts:** past four day's was nice because i made my first api powered website, i could'nt upload my progress that is only regret, i could'nt remember all the code i worked, overall it's been a mixed felling, i don't want to do the same mistake again, i'm going to upload my daily progress what ever it takes.
+**Link to work:**https://coolarun.github.io/weathermap/,
+                 https://projecteuler.net/problem=9,
+                 https://projecteuler.net/problem=10,
+                 https://www.freecodecamp.com/challenges/spinal-tap-case,
+                 https://www.freecodecamp.com/challenges/spinal-tap-case,
+                 https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers,
+                 https://www.freecodecamp.com/challenges/sum-all-primes.
+
+
+
  
