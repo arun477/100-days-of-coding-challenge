@@ -124,7 +124,20 @@ Today i understand one thing, what needs to solve any problem is two things, one
                  https://www.freecodecamp.com/challenges/spinal-tap-case,
                  https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers,
                  https://www.freecodecamp.com/challenges/sum-all-primes.
+                 
+ 
+### Day 15: June 17 , 2017
 
+
+**Today's Progress** i don't know, today was terrible day for me, i kind of messed state, i',m little bit confused today and my thinking about the future intimidating me, i was trying to off focus from that but i couldn't. my procastination punishing me, now i can understand that verywell. but code wise i almost solved three freecodecamp problem and understood the two function method apply and call, and i introduced to memoization concept but i couldn't use this technique today but i hope soon i will use this,
+
+**Thoughts:** not that good but i hope tommorow will be better than this.
+**Link to work:** https://www.freecodecamp.com/challenges/smallest-common-multiple,
+                  https://www.freecodecamp.com/challenges/finders-keepers,
+                  https://www.freecodecamp.com/challenges/drop-it,
+                  https://www.freecodecamp.com/challenges/binary-agents,
+                  https://www.freecodecamp.com/challenges/everything-be-true,
+                  https://www.freecodecamp.com/challenges/arguments-optional.
 
 
  
