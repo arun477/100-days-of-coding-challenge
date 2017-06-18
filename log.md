@@ -138,6 +138,12 @@ Today i understand one thing, what needs to solve any problem is two things, one
                   https://www.freecodecamp.com/challenges/binary-agents,
                   https://www.freecodecamp.com/challenges/everything-be-true,
                   https://www.freecodecamp.com/challenges/arguments-optional.
+### Day 16: June 18 , 2017
 
+
+**Today's Progress** today i coded but i couldn't solve the problem because my code takes too much time to give result big number so i was trying to optimize my code to speed up the process but couldn't finish that today but i taught me the importance of the efficiency of the code and i hope i solve this tommorow.
+
+**Thoughts:** today i learned some indepth concept of javascript from the video called wierd parts of javascript and it explained the basic mechanism behind the javascript and introduced me to some technical used in javascripts, overall i grasped something.
+**Link to work:** comming sooon........
 
  
