@@ -146,4 +146,11 @@ Today i understand one thing, what needs to solve any problem is two things, one
 **Thoughts:** today i learned some indepth concept of javascript from the video called wierd parts of javascript and it explained the basic mechanism behind the javascript and introduced me to some technical used in javascripts, overall i grasped something.
 **Link to work:** comming sooon........
 
+### Day 17: June 19 , 2017
+
+
+**Today's Progress** today i did code for my portfolio and i didn't  solve any code problem.
+
+**Thoughts:** i feel little reliefed because i finished my portfolio project but the sad part is i couldn't do what i thought to do.
+**Link to work:** https://coolarun.github.io/portfolio/,
  
