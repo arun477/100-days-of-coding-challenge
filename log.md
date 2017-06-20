@@ -118,7 +118,6 @@ Today i understand one thing, what needs to solve any problem is two things, one
 
 **Thoughts:** past four day's was nice because i made my first api powered website, i could'nt upload my progress that is only regret, i could'nt remember all the code i worked, overall it's been a mixed felling, i don't want to do the same mistake again, i'm going to upload my daily progress what ever it takes.
 **Link to work:**https://coolarun.github.io/weathermap/,
-                 https://projecteuler.net/problem=9,
                  https://projecteuler.net/problem=10,
                  https://www.freecodecamp.com/challenges/spinal-tap-case,
                  https://www.freecodecamp.com/challenges/spinal-tap-case,
@@ -152,5 +151,14 @@ Today i understand one thing, what needs to solve any problem is two things, one
 **Today's Progress** today i did code for my portfolio and i didn't  solve any code problem.
 
 **Thoughts:** i feel little reliefed because i finished my portfolio project but the sad part is i couldn't do what i thought to do.
-**Link to work:** https://coolarun.github.io/portfolio/,
+**Link to work:** https://coolarun.github.io/portfolio/.
+
+### Day 17: June 20 , 2017
+
+
+**Today's Progress** I learned what is immutable datastructure or persistence datastructure is and good news i solved the problem which confusing for while in project euler problem number 9 has been solved but actually i didn't solved my self but i used the stackoverflow for this, so embarassing anyway, it solved so i'm happy now. i started learning jquery library, that's really cooool to learn.
+
+**Thoughts:** i didn't learn much but i finished one code that disturbing me for a while but i solved by saw the solution in online, if i thinke in slightly different way i could solved that problem myself that is not that much hard to solve but i learned how to approach the problems now, and i have one problem left to finish intermidiate algorithm scripting in freecodecamp but the problem is in the format of multidimensional array that looks intimidating but tommorow my full focus will be to solve the problem efficiently.
+**Link to work:**  https://projecteuler.net/problem=9.
+ 
  
