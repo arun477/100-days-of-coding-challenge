@@ -160,5 +160,13 @@ Today i understand one thing, what needs to solve any problem is two things, one
 
 **Thoughts:** i didn't learn much but i finished one code that disturbing me for a while but i solved by saw the solution in online, if i thinke in slightly different way i could solved that problem myself that is not that much hard to solve but i learned how to approach the problems now, and i have one problem left to finish intermidiate algorithm scripting in freecodecamp but the problem is in the format of multidimensional array that looks intimidating but tommorow my full focus will be to solve the problem efficiently.
 **Link to work:**  https://projecteuler.net/problem=9.
+
+### Day 18: June 21 , 2017
+
+
+**Today's Progress** today is Ahaaa moment because i solved the streamroller problem in freecodecamp that made me crazy for a while, now that completed, what i learned from this problem is that multidimenstional array is quiet difficult to handle. more than i learned some of the property of interesting properties fo the function.
+
+**Thoughts:** i'm happy because i solved that problem and moreover good but i have to increase my tutorial time little bit from tommorow onwords. tommorow i'm going to start new project wikipedia viewer. i'm planning to make it cool and better than my previous projects. and i have alot time  for my tutorial and coding and project seperately.
+**Link to work:**  https://www.freecodecamp.com/challenges/steamroller.
  
  
