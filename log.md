@@ -168,5 +168,13 @@ Today i understand one thing, what needs to solve any problem is two things, one
 
 **Thoughts:** i'm happy because i solved that problem and moreover good but i have to increase my tutorial time little bit from tommorow onwords. tommorow i'm going to start new project wikipedia viewer. i'm planning to make it cool and better than my previous projects. and i have alot time  for my tutorial and coding and project seperately.
 **Link to work:**  https://www.freecodecamp.com/challenges/steamroller.
+
+### Day 19: June 22 , 2017
+
+
+**Today's Progress** i learned quite more than yesterday because i studied in day time, so i decided follow this timing tommorow too, and i solve one coding problem that is dead simple. now entered into advanced algorithm scripting in freecodecamp and it's look so easy than intermediate algoritm scripting anyway i solved only one problem now.
+
+**Thoughts:** today i had lot time for my studies and i feel better and i alloted the timing what i yesterday planned. it worked very well and i learned some basics of sets in mathematics and also i started working on my next project wikipedia viewer, and so far so good.
+**Link to work:** https://www.freecodecamp.com/challenges/record-collection.
  
  
