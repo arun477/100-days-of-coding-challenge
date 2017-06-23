@@ -176,5 +176,13 @@ Today i understand one thing, what needs to solve any problem is two things, one
 
 **Thoughts:** today i had lot time for my studies and i feel better and i alloted the timing what i yesterday planned. it worked very well and i learned some basics of sets in mathematics and also i started working on my next project wikipedia viewer, and so far so good.
 **Link to work:** https://www.freecodecamp.com/challenges/record-collection.
- 
+
+
+### Day 20: June 23 , 2017
+
+
+**Today's Progress** today was a just a revision of what i learned before like event loop and ajax and object reference,
+and i solved one code problem today from freecodecamp advanced algorithm, yesterday the same question seems different, today that question looks difference and i solved that and it took almost one and half hours approximately.
+**Thoughts:** today i could have missed the code but somehow managed to coded, today was not great day but not too bad day as well.
+**Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference.
  
