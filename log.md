@@ -186,3 +186,9 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Thoughts:** today i could have missed the code but somehow managed to coded, today was not great day but not too bad day as well.
 **Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference.
  
+ ### Day 21: June 24 , 2017
+
+
+**Today's Progress** today code was really easy one but i tooks me almost 2hours to solve but i enventually i solved it, in the i had to handle array and little bit mathematics, and now revised the difference between call, apply and bind methods.
+**Thoughts:** my code was really really worst, i have to focus on optimizing my code and i learned the importance of the algorithm and i have to start learn some basic algorithms. today was good.
+**Link to work:**https://www.freecodecamp.com/challenges/exact-change
