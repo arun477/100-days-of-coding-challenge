@@ -199,3 +199,10 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Today's Progress** worst totally worst, because i didn't do any coding execpt do some silly exercise in jquery but i feel that is also coding. i know this so stupid to say that is code but what else i do.
 **Thoughts:**little embarsing but that's happen sometimes, we have to accept that and move forward 
 **Link to work:**https://www.w3schools.com/jquery/.
+
+### Day 23: June 26 , 2017
+
+
+**Today's Progress** totay i worked on single code problem from freecodecamp and that was so easy and i learned something about prototype inheritence, constructor function, pollyfill and also i started to work on my new project using facebook api and i think that will be awesome and i planning to improve my user experience in this project.
+**Thoughts:** little satisfaction but not enough and have to work hard than today, yes now i understood every will not be the same and we have to put effort to work when we have bad days.
+**Link to work:** https://www.freecodecamp.com/challenges/inventory-update
