@@ -192,3 +192,10 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Today's Progress** today code was really easy one but i tooks me almost 2hours to solve but i enventually i solved it, in the i had to handle array and little bit mathematics, and now revised the difference between call, apply and bind methods.
 **Thoughts:** my code was really really worst, i have to focus on optimizing my code and i learned the importance of the algorithm and i have to start learn some basic algorithms. today was good.
 **Link to work:**https://www.freecodecamp.com/challenges/exact-change
+
+ ### Day 22: June 25 , 2017
+
+
+**Today's Progress** worst totally worst, because i didn't do any coding execpt do some silly exercise in jquery but i feel that is also coding. i know this so stupid to say that is code but what else i do.
+**Thoughts:**little embarsing but that's happen sometimes, we have to accept that and move forward 
+**Link to work:**https://www.w3schools.com/jquery/.
