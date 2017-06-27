@@ -206,3 +206,10 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Today's Progress** totay i worked on single code problem from freecodecamp and that was so easy and i learned something about prototype inheritence, constructor function, pollyfill and also i started to work on my new project using facebook api and i think that will be awesome and i planning to improve my user experience in this project.
 **Thoughts:** little satisfaction but not enough and have to work hard than today, yes now i understood every will not be the same and we have to put effort to work when we have bad days.
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
+
+### Day 24: June 27 , 2017
+
+
+**Today's Progress** little worst day and i didn't finsish the code fully but i worked in code, it is 50% complete. and yes i also coded some javascript design pattern.
+**Thoughts:** not that good but i hope tommorow going  to be nice, and i'm working on myproject.
+**Link to work:**comming soon...
