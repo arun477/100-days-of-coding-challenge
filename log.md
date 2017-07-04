@@ -213,3 +213,10 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Today's Progress** little worst day and i didn't finsish the code fully but i worked in code, it is 50% complete. and yes i also coded some javascript design pattern.
 **Thoughts:** not that good but i hope tommorow going  to be nice, and i'm working on myproject.
 **Link to work:**comming soon...
+
+### Day 25: jul 4 , 2017
+
+
+**Today's Progress** i feel bad, i missed one week but now i started to working on and now i'm exploring fb grap api for my project it almost in finishing stage, tommorow it will be completed. 
+**Thoughts:** feel good because my project comming as expectedh but design wise little bit improvision is required.
+**Link to work:**comming soon...
