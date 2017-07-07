@@ -220,3 +220,12 @@ and i solved one code problem today from freecodecamp advanced algorithm, yester
 **Today's Progress** i feel bad, i missed one week but now i started to working on and now i'm exploring fb grap api for my project it almost in finishing stage, tommorow it will be completed. 
 **Thoughts:** feel good because my project comming as expectedh but design wise little bit improvision is required.
 **Link to work:**comming soon...
+
+### Day 26: jul 7 , 2017
+
+
+**Today's Progress** I'm worring about my inconsistency but i hope i will follow daily update eventhough i'm not coding. i finished my project, i worked well.
+. 
+**Thoughts:** now i started learning new frontend framework called angularjs, it has beautifull front end functionality, so i'm excited to work with and also i'm planning my next project and my next project will be usefull for people that kind of project idea i'm searching for after finished my tutorial, i will going to start my project and also i have decided to use twiter bootstrap for responsiveness instead of css flexbox, i hope my next project going to be not only usefull for the people but with awesome UI and UX. look forward to work with angularjs.
+
+**Link to work:** htttps://coolarun.github.io/fbvoice
